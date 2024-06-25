@@ -1,0 +1,14 @@
+C:\projects\dotnet\c#\at_2\bin\Debug\net8.0\AT_2.exe
+C:\projects\dotnet\c#\at_2\bin\Debug\net8.0\AT_2.deps.json
+C:\projects\dotnet\c#\at_2\bin\Debug\net8.0\AT_2.runtimeconfig.json
+C:\projects\dotnet\c#\at_2\bin\Debug\net8.0\AT_2.dll
+C:\projects\dotnet\c#\at_2\bin\Debug\net8.0\AT_2.pdb
+C:\projects\dotnet\c#\at_2\obj\Debug\net8.0\AT_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\dotnet\c#\at_2\obj\Debug\net8.0\AT_2.AssemblyInfoInputs.cache
+C:\projects\dotnet\c#\at_2\obj\Debug\net8.0\AT_2.AssemblyInfo.cs
+C:\projects\dotnet\c#\at_2\obj\Debug\net8.0\AT_2.csproj.CoreCompileInputs.cache
+C:\projects\dotnet\c#\at_2\obj\Debug\net8.0\AT_2.dll
+C:\projects\dotnet\c#\at_2\obj\Debug\net8.0\refint\AT_2.dll
+C:\projects\dotnet\c#\at_2\obj\Debug\net8.0\AT_2.pdb
+C:\projects\dotnet\c#\at_2\obj\Debug\net8.0\AT_2.genruntimeconfig.cache
+C:\projects\dotnet\c#\at_2\obj\Debug\net8.0\ref\AT_2.dll

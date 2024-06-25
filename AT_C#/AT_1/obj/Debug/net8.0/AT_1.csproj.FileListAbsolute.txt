@@ -1,0 +1,14 @@
+C:\projects\dotnet\c#\AT_1\bin\Debug\net8.0\AT_1.exe
+C:\projects\dotnet\c#\AT_1\bin\Debug\net8.0\AT_1.deps.json
+C:\projects\dotnet\c#\AT_1\bin\Debug\net8.0\AT_1.runtimeconfig.json
+C:\projects\dotnet\c#\AT_1\bin\Debug\net8.0\AT_1.dll
+C:\projects\dotnet\c#\AT_1\bin\Debug\net8.0\AT_1.pdb
+C:\projects\dotnet\c#\AT_1\obj\Debug\net8.0\AT_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\dotnet\c#\AT_1\obj\Debug\net8.0\AT_1.AssemblyInfoInputs.cache
+C:\projects\dotnet\c#\AT_1\obj\Debug\net8.0\AT_1.AssemblyInfo.cs
+C:\projects\dotnet\c#\AT_1\obj\Debug\net8.0\AT_1.csproj.CoreCompileInputs.cache
+C:\projects\dotnet\c#\AT_1\obj\Debug\net8.0\AT_1.dll
+C:\projects\dotnet\c#\AT_1\obj\Debug\net8.0\refint\AT_1.dll
+C:\projects\dotnet\c#\AT_1\obj\Debug\net8.0\AT_1.pdb
+C:\projects\dotnet\c#\AT_1\obj\Debug\net8.0\AT_1.genruntimeconfig.cache
+C:\projects\dotnet\c#\AT_1\obj\Debug\net8.0\ref\AT_1.dll
